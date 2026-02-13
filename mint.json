@@ -1,10 +1,13 @@
 {
   "name": "WazapSuite",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo.svg",
+    "dark": "/logo.svg"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/favicon.svg",
+  "build": {
+    "output": "dist"
+  },
   "colors": {
     "primary": "#25D366",
     "light": "#DCF8C6",

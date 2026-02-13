@@ -1,5 +1,13 @@
 {
+  "name": "wazap-suite-user-docs",
+  "version": "1.0.0",
+  "description": "User documentation for WazapSuite",
+  "scripts": {
+    "dev": "mintlify dev",
+    "build": "mintlify build",
+    "start": "mintlify start"
+  },
   "dependencies": {
-    "mintlify": "^4.2.345"
+    "mintlify": "^4.0.0"
   }
 }
