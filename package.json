@@ -4,7 +4,6 @@
   "description": "User documentation for WazapSuite",
   "scripts": {
     "dev": "npx mintlify dev",
-    "build": "npx mintlify build",
     "start": "npx mintlify start"
   },
   "dependencies": {
